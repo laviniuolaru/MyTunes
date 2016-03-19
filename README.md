@@ -1,4 +1,4 @@
 # MyTunes
 ASP.NET App using Web Forms
 
-![Screenshot](screenshots/screenshot.jpg)
+![Screenshot](screenshots/screenshot.JPG)
